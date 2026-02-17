@@ -12,8 +12,8 @@ Sebuah aplikasi pengacak kelompok yang efisien, berawal dari proyek iseng saat S
 - **Export Result:** Fitur _copy to clipboard_ untuk menyalin hasil pengacakan dengan format yang rapi.
 
 ## 📸 Tampilan Aplikasi
-> <img src="https://drive.google.com/uc?export=view&id=1MNkL8Y8hUhNRm9DBy_DuK3ywliG7r0Dr" width="250"> | <img src="https://drive.google.com/uc?export=view&id=1B-Ft1CITxHpYJ9_4pSFuU3z3yln7pgTy" width="250">
-> ![Preview-1](https://drive.google.com/file/d/1B-Ft1CITxHpYJ9_4pSFuU3z3yln7pgTy/view?usp=drive_link)
+> <img src="https://drive.google.com/uc?export=view&id=1MNkL8Y8hUhNRm9DBy_DuK3ywliG7r0Dr" width="250">
+> <img src="https://drive.google.com/uc?export=view&id=1B-Ft1CITxHpYJ9_4pSFuU3z3yln7pgTy" width="250">
 
 ## 🛠️ Teknologi yang Digunakan
 - **Framework:** Flutter
